@@ -3,13 +3,14 @@ h1 {
 }
 
 .wrapper { 
-
   background-color: white;
   display: -webkit-flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   outline: 4px solid black;
+  text-align: center;
+  height: 98.5vh;
 }
 
 p {
@@ -48,15 +49,13 @@ p {
   font-family: 'Times Newer Roman';
     font-size: 30px;
   padding-top: 9%;
-  padding-bottom: 6%;
 margin-left: 25%;
   margin-right: 25%;
 
 }
 
 .footer {
-  position: inline;
-  left: 0;
+  position: fixed;
   bottom: 0;
   width: 100%;
   color: red;
