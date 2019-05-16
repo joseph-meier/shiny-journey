@@ -1,0 +1,81 @@
+h1 {
+  color: black;
+}
+
+.wrapper { 
+
+  background-color: white;
+  display: -webkit-flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  outline: 4px solid black;
+}
+
+p {
+  color: black;
+}
+
+.header {
+  display: flex;
+  flex-direction: column;
+  font-size: large;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Times Newer Roman';
+  font-weight: bold;
+  font-size: 4.8vw;
+  align-items: center;
+  text-align: center;
+  line-height: 1px;
+  padding-top: 9%;
+}
+
+#header-blurb {
+  line-height: 1.2em;
+  font-size: 2vw;
+  margin-top: .1rem;
+}
+
+
+.description {
+  display: -webkit-flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  vertical-align: center;
+  text-align: center;
+  font-family: 'Times Newer Roman';
+    font-size: 30px;
+  padding-top: 9%;
+  padding-bottom: 6%;
+margin-left: 25%;
+  margin-right: 25%;
+
+}
+
+.footer {
+  position: inline;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: red;
+  text-align: center;
+  font-family: 'Times Newer Roman';
+    font-size: 14px;
+}
+
+#joe:hover {
+  color: blue;
+  
+}
+
+#nicco:hover {
+color: red;
+}
+
+a:link {
+  text-decoration: none;
+  color: black;
+}
+
