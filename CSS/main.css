@@ -123,3 +123,13 @@ a:link {
  }
 }
 
+#merch {
+ position: fixed;
+  bottom: 0;
+  width: 100%;
+  color: red;
+  text-align: center;
+  font-family: 'Times Newer Roman';
+    font-size: 15px; 
+}
+
