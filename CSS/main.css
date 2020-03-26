@@ -55,7 +55,9 @@ margin-left: 25%;
 }
 
 .footer {
-  position: fixed;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
   bottom: 0;
   width: 100%;
   color: red;
