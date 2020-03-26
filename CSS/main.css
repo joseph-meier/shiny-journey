@@ -7,7 +7,7 @@ h1 {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  border: 4px solid black;
+  border: 2px solid red;
   text-align: center;
   height: 97.5vh;
   z-index: 4;
@@ -122,3 +122,4 @@ a:link {
  transform: translateX(-100%); 
  }
 }
+
